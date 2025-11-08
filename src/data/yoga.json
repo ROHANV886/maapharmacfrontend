@@ -1,0 +1,131 @@
+[
+
+  {
+    "id": 1,
+    "name": "Ankle Support Air Pro",
+    "oldPrice": "₹350.00",
+    "price": "₹298.00",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/1/_/1_619.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Knee Cap Air",
+    "oldPrice": "₹383.00",
+    "price": "₹326.00",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://avatars.mds.yandex.net/i?id=c93b122451dde5b329e65e2e7c3f1096cd7d3d3e-3390871-images-thumbs&n=13"
+  },
+  {
+    "id": 3,
+    "name": "Ankle Binder Air Pro",
+    "oldPrice": "₹344.00",
+    "price": "₹292.00",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/2/0/202o_4.png"
+  },
+  {
+    "id": 4,
+    "name": "Ankle Support (Neoprene)",
+    "oldPrice": "₹561.00",
+    "price": "₹477.00",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/4/0/403111_1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Thigh Support Air Pro",
+    "oldPrice": "₹366.00",
+    "price": "₹311.00",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://avatars.mds.yandex.net/i?id=d2d78c410dee5bfd128a49dc1c5871c5d4e2c3a1-4482423-images-thumbs&n=13"
+  },
+  {
+    "id": 6,
+    "name": "Yoga Mat Eva,4 MM",
+    "oldPrice": "₹431.00",
+    "price": "₹366.00",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://avatars.mds.yandex.net/i?id=c77c6472e4a24dc9dc400db6b41ca8b4b3f39f1f-12684404-images-thumbs&n=13"
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat TPE,6 MM",
+    "oldPrice": "₹1,016.00",
+    "price": "₹864.00",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://avatars.mds.yandex.net/i?id=c77c6472e4a24dc9dc400db6b41ca8b4b3f39f1f-12684404-images-thumbs&n=13"
+  },
+  {
+    "id": 8,
+    "name": "Yoga Mat TPE,8 MM",
+    "oldPrice": "₹1,362.00",
+    "price": "₹1,158.00",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://avatars.mds.yandex.net/i?id=c77c6472e4a24dc9dc400db6b41ca8b4b3f39f1f-12684404-images-thumbs&n=13"
+  },
+  {
+    "id": 9,
+    "name": "Yoga Mat Eva,6 MM",
+    "oldPrice": "₹654.00",
+    "price": "₹556.00",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://avatars.mds.yandex.net/i?id=c77c6472e4a24dc9dc400db6b41ca8b4b3f39f1f-12684404-images-thumbs&n=13"
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mat EVA,8 MM",
+    "oldPrice": null,
+    "price": "Out of stock",
+    "category": "tynor",
+    "subCategory": "Yoga",
+    "img": "https://avatars.mds.yandex.net/i?id=c77c6472e4a24dc9dc400db6b41ca8b4b3f39f1f-12684404-images-thumbs&n=13"
+  }
+,
+  {
+    "id": 11,
+    "name": "Ankle Grip",
+    "oldPrice": 359.00,
+    "price": 287.20,
+    "category": "Flamingo",
+    "subCategory": "Yoga",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2103-P2_ec58b838-8d48-4e8b-8256-2789bc516e0a.png?v=1720083712&width=400"
+  },
+  {
+    "id": 12,
+    "name": "Anklet Pair",
+    "oldPrice": 389.00,
+    "price": 311.20,
+    "category": "Flamingo",
+    "subCategory": "Yoga",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2014-P2.png?v=1718967473&width=400"
+  },
+  {
+    "id": 13,
+    "name": "Premium Anklet Pair",
+    "oldPrice": 419.00,
+    "price": 335.20,
+    "category": "Flamingo",
+    "subCategory": "Yoga",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Ankle-Support_1.jpg?v=1751365771&width=400"
+  },
+  {
+    "id": 14,
+    "name": "Ankle Grip (Neoprene)",
+    "oldPrice": 999.00,
+    "price": 799.20,
+    "category": "Flamingo",
+    "subCategory": "Yoga",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2456-P2.png?v=1719324460&width=400"
+  }
+
+]

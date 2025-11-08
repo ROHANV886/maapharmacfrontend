@@ -1,0 +1,892 @@
+[
+  {
+    "id": 1,
+    "name": "Scrotal Support",
+    "oldPrice": "₹499.00",
+    "price": "₹399.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2143-P2.png?v=1718969536&width=300"
+  },
+  {
+    "id": 2,
+    "name": "Abdominal Belt - 20 cm",
+    "oldPrice": "₹829.00",
+    "price": "₹663.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2002-P2.png?v=1718950197&width=300"
+  },
+  {
+    "id": 3,
+    "name": "Abdominal Binder - 25 cms",
+    "oldPrice": "₹849.00",
+    "price": "₹679.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2187-P2.jpg?v=1720440737&width=300"
+  },
+  {
+    "id": 4,
+    "name": "Abdominal Belt Post Pregnancy",
+    "oldPrice": "₹749.00",
+    "price": "₹599.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2520-P2.png?v=1718942090&width=300"
+  },
+  {
+    "id": 5,
+    "name": "Pavlik Harness",
+    "oldPrice": "₹999.00",
+    "price": "₹799.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Regular-P2.png?v=1718790018&width=300"
+  },
+  {
+    "id": 6,
+    "name": "Abdominal Belt - 14 cm",
+    "oldPrice": "₹469.00",
+    "price": "₹375.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2019-P2.png?v=1718967667&width=300"
+  },
+  {
+    "id": 7,
+    "name": "Pelvic Binder",
+    "oldPrice": "₹799.00",
+    "price": "₹639.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2116-P2.jpg?v=1720410472&width=300"
+  },
+  {
+    "id": 8,
+    "name": "Abs Wrap (Neoprene)",
+    "oldPrice": "₹1,249.00",
+    "price": "₹999.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2086-P2.jpg?v=1720410342&width=300"
+  },
+  {
+    "id": 9,
+    "name": "Hernia Belt",
+    "oldPrice": "₹729.00",
+    "price": "₹583.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2086-P2.jpg?v=1720410342&width=300"
+  },
+  {
+    "id": 10,
+    "name": "Maternity Belt",
+    "oldPrice": "₹879.00",
+    "price": "₹703.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2031-P2.png?v=1719214732&width=300"
+  },
+  {
+    "id": 11,
+    "name": "Paediatric Frejka Pillow",
+    "oldPrice": "₹1,499.00",
+    "price": "₹1,199.20",
+    "category": "Flamingo",
+    "subCategory": "Abdominal",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Paediatric-Frejka-Pillow_2.jpg?v=1751962051&width=300"
+  },
+  
+  {
+    "id": 12,
+    "name": "Ankle Grip",
+    "oldPrice": "₹ 359.00",
+    "price": "₹ 287.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2103-P2_ec58b838-8d48-4e8b-8256-2789bc516e0a.png?v=1720083712&width=300"
+  },
+  {
+    "id": 13,
+    "name": "Ankle Binder",
+    "oldPrice": "₹ 319.00",
+    "price": "₹ 255.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2005-P2.png?v=1718950891&width=300"
+  },
+  {
+    "id": 14,
+    "name": "Anklet Pair",
+    "oldPrice": "₹ 389.00",
+    "price": "₹ 311.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2014-P2.png?v=1718967473&width=300"
+  },
+  {
+    "id": 15,
+    "name": "Premium Anklet Pair",
+    "oldPrice": "₹ 419.00",
+    "price": "₹ 335.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Ankle-Support_1.jpg?v=1751365771&width=300"
+  },
+  {
+    "id": 16,
+    "name": "Foot Drop Splint",
+    "oldPrice": "₹ 1,099.00",
+    "price": "₹ 879.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2205-P2.jpg?v=1720411170&width=300"
+  },
+  {
+    "id": 17,
+    "name": "Ankle Grip (Neoprene)",
+    "oldPrice": "₹ 999.00",
+    "price": "₹ 799.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2456-P2.png?v=1719324460&width=300"
+  },
+  {
+    "id": 18,
+    "name": "Ankle Brace",
+    "oldPrice": "₹ 799.00",
+    "price": "₹ 639.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2040-P2.png?v=1718968183&width=300"
+  },
+  {
+    "id": 19,
+    "name": "Neoprene Ankle Wrap",
+    "oldPrice": "₹ 749.00",
+    "price": "₹ 599.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2146-P2.png?v=1718969971&width=300"
+  },
+  {
+    "id": 20,
+    "name": "Cast Shoe",
+    "oldPrice": null,
+    "price": "₹ 699.00",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2146-P2.png?v=1718969971&width=300"
+  },
+  {
+    "id": 21,
+    "name": "Stirrup Ankle Brace",
+    "oldPrice": "₹ 799.00",
+    "price": "₹ 639.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2125-P2.png?v=1718969279&width=300"
+  },
+  {
+    "id": 22,
+    "name": "Gel Stirrup Ankle Brace",
+    "oldPrice": "₹ 999.00",
+    "price": "₹ 799.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2194-P2.png?v=1718970194&width=300"
+  },
+  {
+    "id": 23,
+    "name": "Rocker Bottom Cast Shoe",
+    "oldPrice": null,
+    "price": "₹ 799.00",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2468-P2.png?v=1718970285&width=300"
+  },
+  {
+    "id": 24,
+    "name": "Adjustable Ankle Support (Neoprene)",
+    "oldPrice": "₹ 999.00",
+    "price": "₹ 799.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2374-P2.png?v=1718768564&width=300"
+  },
+  {
+    "id": 25,
+    "name": "Air Walker Boot",
+    "oldPrice": "₹ 4,999.00",
+    "price": "₹ 3,999.20",
+    "category": "Flamingo",
+    "subCategory": "Ankle",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Air-Walker-Boot-_Long__2.jpg?v=1751895809&width=300"
+  }
+,
+  {
+    "id": 26,
+    "name": "Lumbar Sacro Belt (L.S.Belt)",
+    "oldPrice": "₹ 999.00",
+    "price": "₹ 799.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2001-P2_4b1707c5-21dd-4ea8-bd7d-06dbbf1c6161.png?v=1719812016&width=300"
+  },
+  {
+    "id": 27,
+    "name": "Posture Brace",
+    "oldPrice": "₹ 949.00",
+    "price": "₹ 759.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2361-P1.jpg?v=1720518364&width=300"
+  },
+  {
+    "id": 28,
+    "name": "Dorsolumbar Spinal Brace (Taylors Brace)",
+    "oldPrice": "₹ 2,649.00",
+    "price": "₹ 2,119.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2034-P2.jpg?v=1720410135&width=300"
+  },
+  {
+    "id": 29,
+    "name": "Premium Lumbar Sacro Support",
+    "oldPrice": "₹ 1,399.00",
+    "price": "₹ 1,119.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2054-P2.png?v=1719569144&width=300"
+  },
+  {
+    "id": 30,
+    "name": "Lumbar Corset Belt",
+    "oldPrice": "₹ 849.00",
+    "price": "₹ 679.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2033-P4.png?v=1720410084&width=300"
+  },
+  {
+    "id": 31,
+    "name": "Eco Frame Belt",
+    "oldPrice": "₹ 1,299.00",
+    "price": "₹ 1,039.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2050-P1.jpg?v=1720410245&width=300"
+  },
+  {
+    "id": 32,
+    "name": "Pediatric Dorsolumbar Spinal Brace",
+    "oldPrice": "₹ 1,499.00",
+    "price": "₹ 1,199.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2210-P2.jpg?v=1720432230&width=300"
+  },
+  {
+    "id": 33,
+    "name": "Contoured L.S. Belt",
+    "oldPrice": "₹ 1,299.00",
+    "price": "₹ 1,039.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2006-P2.jpg?v=1720409573&width=300"
+  },
+  {
+    "id": 34,
+    "name": "Clavicle Brace",
+    "oldPrice": "₹ 599.00",
+    "price": "₹ 479.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2018-P2.png?v=1718774358&width=300"
+  },
+  {
+    "id": 35,
+    "name": "L.S. Belt COMpression COMfort",
+    "oldPrice": "₹ 999.00",
+    "price": "₹ 799.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2517-P2.png?v=1719816661&width=300"
+  },
+  {
+    "id": 36,
+    "name": "Back Comfort Belt",
+    "oldPrice": "₹ 1,290.00",
+    "price": "₹ 1,032.00",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2455-P2.png?v=1718778306&width=300"
+  },
+
+  {
+    "id": 26,
+    "name": "Lumbar Sacro Belt (L.S.Belt)",
+    "oldPrice": "₹ 999.00",
+    "price": "₹ 799.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2001-P2_4b1707c5-21dd-4ea8-bd7d-06dbbf1c6161.png?v=1719812016&width=300"
+  },
+  {
+    "id": 27,
+    "name": "Posture Brace",
+    "oldPrice": "₹ 949.00",
+    "price": "₹ 759.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2361-P1.jpg?v=1720518364&width=300"
+  },
+  {
+    "id": 28,
+    "name": "Dorsolumbar Spinal Brace (Taylors Brace)",
+    "oldPrice": "₹ 2,649.00",
+    "price": "₹ 2,119.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2034-P2.jpg?v=1720410135&width=300"
+  },
+  {
+    "id": 29,
+    "name": "Premium Lumbar Sacro Support",
+    "oldPrice": "₹ 1,399.00",
+    "price": "₹ 1,119.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2054-P2.png?v=1719569144&width=300"
+  },
+  {
+    "id": 30,
+    "name": "Lumbar Corset Belt",
+    "oldPrice": "₹ 849.00",
+    "price": "₹ 679.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2033-P4.png?v=1720410084&width=300"
+  },
+  {
+    "id": 31,
+    "name": "Eco Frame Belt",
+    "oldPrice": "₹ 1,299.00",
+    "price": "₹ 1,039.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2050-P1.jpg?v=1720410245&width=300"
+  },
+  {
+    "id": 32,
+    "name": "Pediatric Dorsolumbar Spinal Brace",
+    "oldPrice": "₹ 1,499.00",
+    "price": "₹ 1,199.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2210-P2.jpg?v=1720432230&width=300"
+  },
+  {
+    "id": 33,
+    "name": "Contoured L.S. Belt",
+    "oldPrice": "₹ 1,299.00",
+    "price": "₹ 1,039.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2006-P2.jpg?v=1720409573&width=300"
+  },
+  {
+    "id": 34,
+    "name": "Clavicle Brace",
+    "oldPrice": "₹ 599.00",
+    "price": "₹ 479.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2018-P2.png?v=1718774358&width=300"
+  },
+  {
+    "id": 35,
+    "name": "L.S. Belt COMpression COMfort",
+    "oldPrice": "₹ 999.00",
+    "price": "₹ 799.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2517-P2.png?v=1719816661&width=300"
+  },
+  {
+    "id": 36,
+    "name": "Back Comfort Belt",
+    "oldPrice": "₹ 1,290.00",
+    "price": "₹ 1,032.00",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2455-P2.png?v=1718778306&width=300"
+  },
+  {
+    "id": 37,
+    "name": "Contoured L.S. Support",
+    "oldPrice": "₹ 1,499.00",
+    "price": "₹ 1,199.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2007-P2.jpg?v=1720409633&width=300"
+  },
+  {
+    "id": 38,
+    "name": "Compact Spinal Brace",
+    "oldPrice": "₹ 1,749.00",
+    "price": "₹ 1,399.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2363-P2.jpg?v=1720412404&width=300"
+  },
+  {
+    "id": 39,
+    "name": "Advanced Lumbo Sacral Belt",
+    "oldPrice": "₹ 1,149.00",
+    "price": "₹ 919.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Advanced-Lumbo-Sacral-Belt_2.jpg?v=1751947583&width=300"
+  },
+  {
+    "id": 40,
+    "name": "Adjustable Back Support (Neoprene)",
+    "oldPrice": "₹ 1,999.00",
+    "price": "₹ 1,599.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2367-P2.jpg?v=1720433390&width=300"
+  },
+  {
+    "id": 41,
+    "name": "Lacepull Back Belt",
+    "oldPrice": "₹ 1,799.00",
+    "price": "₹ 1,439.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2454-P2.png?v=1718778194&width=300"
+  },
+  {
+    "id": 42,
+    "name": "Hyper Extension Brace",
+    "oldPrice": "₹ 1,899.00",
+    "price": "₹ 1,519.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2129-P2.png?v=1718969385&width=300"
+  },
+  
+  {
+    "id": 43,
+    "name": "Tourniquet",
+    "oldPrice": "₹ 79.00",
+    "price": "₹ 63.20",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2199-P2.jpg?v=1720411096&width=300"
+  },
+  {
+    "id": 44,
+    "name": "Premium Elbow Support",
+    "oldPrice": "₹ 319.00",
+    "price": "₹ 255.20",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Elbow-Support_1.jpg?v=1751365641&width=300"
+  },
+  {
+    "id": 45,
+    "name": "Elbow Support",
+    "oldPrice": "₹ 249.00",
+    "price": "₹ 199.20",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2021-P2.png?v=1718774462&width=300"
+  },
+  {
+    "id": 46,
+    "name": "Gel Elbow Support",
+    "oldPrice": "₹ 299.00",
+    "price": "₹ 239.20",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2192-P2.jpg?v=1720410922&width=300"
+  },
+  {
+    "id": 47,
+    "name": "Arm Immobilizer",
+    "oldPrice": "₹ 649.00",
+    "price": "₹ 519.20",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2082-P2.png?v=1718968947&width=300"
+  },
+  {
+    "id": 48,
+    "name": "Tennis Elbow Support (Neoprene)",
+    "oldPrice": "₹ 499.00",
+    "price": "₹ 399.20",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2383-P2.png?v=1718768606&width=300"
+  },
+  {
+    "id": 49,
+    "name": "Tennis Elbow Support (With pressure pad)",
+    "oldPrice": "₹ 309.00",
+    "price": "₹ 247.20",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2024-P2.png?v=1718967746&width=300"
+  },
+  {
+    "id": 50,
+    "name": "Compression Arm Sleeve",
+    "oldPrice": "₹ 842.00",
+    "price": "₹ 673.60",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Compression-Arm-Sleeve_2.jpg?v=1751960720&width=300"
+  },
+  {
+    "id": 51,
+    "name": "Gel Tennis Elbow Support",
+    "oldPrice": "₹ 329.00",
+    "price": "₹ 263.20",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2195-P2.jpg?v=1720410966&width=300"
+  },
+  {
+    "id": 52,
+    "name": "R.O.M. Elbow Brace",
+    "oldPrice": "₹ 3,999.00",
+    "price": "₹ 3,199.20",
+    "category": "Flamingo",
+    "subCategory": "Wrist",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/ROM-Elbow-Brace_2.jpg?v=1751951260&width=300"
+  }
+,
+  {
+    "id": 53,
+    "name": "Knee Cap",
+    "oldPrice": "₹ 429.00",
+    "price": "₹ 343.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2013-P2.png?v=1719214603&width=300"
+  },
+  {
+    "id": 54,
+    "name": "Premium Knee Cap",
+    "oldPrice": "₹ 469.00",
+    "price": "₹ 375.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Knee-Cap_1.jpg?v=1751365880&width=300"
+  },
+  {
+    "id": 55,
+    "name": "Hinged Knee Cap",
+    "oldPrice": "₹ 699.00",
+    "price": "₹ 559.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2023-P2.png?v=1718774516&width=300"
+  },
+  {
+    "id": 56,
+    "name": "Gel Bi-Axle Hinged Knee Brace",
+    "oldPrice": "₹ 1,499.00",
+    "price": "₹ 1,199.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2132-P2.png?v=1718776022&width=300"
+  },
+  {
+    "id": 57,
+    "name": "Knee Brace (Long)",
+    "oldPrice": "₹ 1,199.00",
+    "price": "₹ 959.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2010-P2.png?v=1719214503&width=300"
+  },
+  {
+    "id": 58,
+    "name": "Knee Wrap (Neoprene)",
+    "oldPrice": "₹ 1,149.00",
+    "price": "₹ 919.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2370-P2.png?v=1719324237&width=300"
+  },
+  {
+    "id": 59,
+    "name": "Knee Stabilizer",
+    "oldPrice": "₹ 449.00",
+    "price": "₹ 359.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/CopyofProduct-2_1500x1500px_1_2b91d7ce-6f78-436b-bdd6-1fe6f1b4e805.png?v=1718775113&width=300"
+  },
+  {
+    "id": 60,
+    "name": "Premium Thigh Support (Pair)",
+    "oldPrice": "₹ 399.00",
+    "price": "₹ 319.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Thigh-Support_1.jpg?v=1751364929&width=300"
+  },
+  {
+    "id": 61,
+    "name": "Calf Support",
+    "oldPrice": "₹ 349.00",
+    "price": "₹ 279.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2039-P2.png?v=1718968133&width=300"
+  },
+  {
+    "id": 62,
+    "name": "Gel Patella Knee Cap",
+    "oldPrice": "₹ 549.00",
+    "price": "₹ 439.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2140-P2.jpg?v=1720410659&width=300  "
+  },
+  {
+    "id": 63,
+    "name": "Open Patella Knee Cap",
+    "oldPrice": "₹ 499.00",
+    "price": "₹ 399.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2140-P2.jpg?v=1720410659&width=300"
+  },
+  {
+    "id": 64,
+    "name": "Gel Knee Cushion For Prayers (Pair)",
+    "oldPrice": "₹ 799.00",
+    "price": "₹ 639.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2153_P2.png?v=1718970015&width=300"
+  },
+  {
+    "id": 65,
+    "name": "Osteo-Arthritis Knee Support (Neoprene)",
+    "oldPrice": "₹ 1,799.00",
+    "price": "₹ 1,439.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OA-KneeSupport_3.jpg?v=1753767021&width=300"
+  },
+  {
+    "id": 66,
+    "name": "Premium Calf Support (Pair)",
+    "oldPrice": "₹ 399.00",
+    "price": "₹ 319.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Calf-Support_1.jpg?v=1751364715&width=300"
+  },
+  {
+    "id": 67,
+    "name": "Hinged Knee Stabilizer (Neoprene)",
+    "oldPrice": "₹ 1,799.00",
+    "price": "₹ 1,439.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2364-P2.png?v=1718768197&width=300"
+  },
+  {
+    "id": 68,
+    "name": "R.O.M. Knee Brace",
+    "oldPrice": "₹ 2,899.00",
+    "price": "₹ 2,319.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2141-P2.png?v=1719216054&width=300"
+  },
+  {
+    "id": 69,
+    "name": "Foot Drop Splint",
+    "oldPrice": "₹ 1,099.00",
+    "price": "₹ 879.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2205-P2.jpg?v=1720411170&width=300"
+  },
+  {
+    "id": 70,
+    "name": "Knee Brace (Short)",
+    "oldPrice": "₹ 949.00",
+    "price": "₹ 759.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2011-P2.png?v=1719214554&width=300"
+  },
+  {
+    "id": 71,
+    "name": "Elastic Knee Support",
+    "oldPrice": "₹ 799.00",
+    "price": "₹ 639.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2020-P2.jpg?v=1720409950&width=300"
+  },
+  {
+    "id": 72,
+    "name": "Gel Knee Cushion",
+    "oldPrice": "₹ 449.00",
+    "price": "₹ 359.20",
+    "category": "Flamingo",
+    "subCategory": "Knee",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2139-P2.jpg?v=1720410619&width=300"
+  },
+  
+  {
+    "id": 73,
+    "name": "Arm Pouch",
+    "oldPrice": "₹ 399.00",
+    "price": "₹ 319.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2036-P2.png?v=1718774888&width=300"
+  },
+  {
+    "id": 74,
+    "name": "Arm Sling",
+    "oldPrice": "₹ 469.00",
+    "price": "₹ 375.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2004-P2.png?v=1718774267&width=300"
+  },
+  {
+    "id": 75,
+    "name": "Arm Sling Strap",
+    "oldPrice": "₹ 299.00",
+    "price": "₹ 239.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2041-P2.png?v=1718968225&width=300"
+  },
+  {
+    "id": 76,
+    "name": "Clavicle Brace",
+    "oldPrice": "₹ 599.00",
+    "price": "₹ 479.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2018-P2.png?v=1718774358&width=300"
+  },
+  {
+    "id": 77,
+    "name": "Cuff and Collar Sling",
+    "oldPrice": "₹ 399.00",
+    "price": "₹ 319.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2128-P2.png?v=1718969329&width=300"
+  },
+  {
+    "id": 78,
+    "name": "Elastic Back Immobilizer",
+    "oldPrice": "₹ 999.00",
+    "price": "₹ 799.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2038-P2.png?v=1718968085&width=300"
+  },
+  {
+    "id": 79,
+    "name": "Humerus Brace - Neoprene",
+    "oldPrice": "₹ 1,399.00",
+    "price": "₹ 1,119.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2449-P2.png?v=1719324410&width=300"
+  },
+  {
+    "id": 80,
+    "name": "Pediatric Arm Sling",
+    "oldPrice": "₹ 429.00",
+    "price": "₹ 343.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2114-P2.jpg?v=1720432411&width=300"
+  },
+  {
+    "id": 81,
+    "name": "Pediatric Arm Sling Strap",
+    "oldPrice": "₹ 129.00",
+    "price": "₹ 103.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2114-P2.jpg?v=1720432411&width=300"
+  },
+  {
+    "id": 82,
+    "name": "Pediatric Clavicle Brace",
+    "oldPrice": "₹ 469.00",
+    "price": "₹ 375.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2188-P2.jpg?v=1720432316&width=300"
+  },
+  {
+    "id": 83,
+    "name": "Premium Breathable Arm Sling",
+    "oldPrice": "₹ 519.00",
+    "price": "₹ 415.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2362-P2.png?v=1718768715&width=300"
+  },
+  {
+    "id": 84,
+    "name": "Back Abduction Brace",
+    "oldPrice": "₹ 1,999.00",
+    "price": "₹ 1,599.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Back-Abduction-Brace_1.jpg?v=1751949489&width=300"
+  },
+  {
+    "id": 85,
+    "name": "Back Support",
+    "oldPrice": "₹ 949.00",
+    "price": "₹ 759.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2042-P2.png?v=1718968279&width=300"
+  },
+  {
+    "id": 86,
+    "name": "Back Support (Neoprene)",
+    "oldPrice": "₹ 1,099.00",
+    "price": "₹ 879.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2372-P2.png?v=1719324283&width=300"
+  },
+  {
+    "id": 87,
+    "name": "Universal Back Immobilizer",
+    "oldPrice": "₹ 699.00",
+    "price": "₹ 559.20",
+    "category": "Flamingo",
+    "subCategory": "Back",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/uni-shlder-im-black.jpg?v=1743659411&width=300"
+  }
+
+
+]

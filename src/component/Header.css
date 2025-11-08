@@ -1,0 +1,17 @@
+.navbar-brand {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #f8d210; /* highlight color */
+}
+element {
+    height: 130px;
+    width: auto;
+    margin-right: 8px;
+}

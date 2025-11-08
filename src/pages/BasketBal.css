@@ -1,0 +1,118 @@
+/* ======================================= */
+/* 1. Base Structure & Page Layout (SCROLL FIX) */
+/* ======================================= */
+
+/* ✅ FIX: Poori body par overflow-x hidden set karein taaki horizontal scroll na aaye */
+body {
+  overflow-x: hidden; 
+}
+
+.abdominal-page {
+  background-color: #f4f4f4; /* Thoda lighter background */
+  font-family: "Poppins", sans-serif;
+  min-height: 80vh; 
+}
+
+/* BANNER */
+
+.banner {
+  width: 100%;
+  overflow: hidden; /* Optional: extra part hide karega */
+}
+
+.banner-img {
+  width: 100%;
+  height: auto !important;
+  object-fit: contain !important;
+  display: block;
+}
+
+
+/* ======================================= */
+/* 2. Filter Sidebar (HEIGHT FIX) */
+/* ======================================= */
+
+.filter-sidebar {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+  /* ✅ FIX: Height ko auto par set kiya taaki mobile par vertical scroll na ho */
+  height: auto; 
+  margin-bottom: 20px;
+  position: relative; /* Agar zaroori ho toh relative rakhein, otherwise hata sakte hain */
+}
+
+.filter-section label {
+  font-weight: 600;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.filter-section ul {
+  list-style: none;
+  padding-left: 0; 
+  margin-bottom: 10px;
+}
+
+.filter-section li {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+
+/* ======================================= */
+/* 3. Product Cards & Grid */
+/* ======================================= */
+
+.product-card {
+  border: none;
+  transition: transform 0.2s ease-in-out;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-card img {
+  height: 200px; 
+  object-fit: cover; /* Cover behtar hai agar image path fix ho gaya hai */
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #333;
+}
+
+.price {
+  color: #333;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #999;
+  font-size: 0.85rem; 
+  margin-left: 5px;
+}
+
+/* ======================================= */
+/* 4. Popups (Standardized) */
+/* ======================================= */
+
+.popup-message {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 500;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+}

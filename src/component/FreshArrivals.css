@@ -1,0 +1,115 @@
+.fade-in {
+  animation: fadeIn 0.8s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.carousel-item img {
+  transition: transform 0.3s ease;
+}
+
+.carousel-item img:hover {
+  transform: scale(1.03);
+}
+
+.pagination .page-link:hover {
+  background-color: #ff69b4 !important; /* Pink hover */
+}
+
+.pagination .page-link.active {
+  background-color: #333 !important;
+}
+.fresh-arrivals-section {
+  background-color: #f8f9fa; /* Light grey */
+  padding: 3rem 0;
+}
+
+.fade-in {
+  animation: fadeIn 0.8s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+img:hover {
+  transform: scale(1.03);
+  transition: transform 0.3s ease;
+}
+.fresh-arrivals-section {
+  background-color: #f9fafb; /* subtle section bg */
+}
+
+.product-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.product-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.product-img {
+  height: 260px;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.product-card:hover .product-img {
+  transform: scale(1.05);
+}
+
+.badge {
+  font-size: 0.7rem;
+  letter-spacing: 0.5px;
+  padding: 0.4em 0.6em;
+}
+/* Yeh CSS aapke project ki .css file mein add karein
+   jab aap react-slick ka istemaal karein */
+
+.slick-dots {
+  bottom: -30px; /* Dots ko thoda neeche shift karein */
+}
+
+/* Har dot (list item) ko style karna */
+.slick-dots li {
+  margin: 0 3px; /* Dots ke beech mein space */
+  width: 20px;  /* Har dot ki width badhana */
+}
+
+/* Asli button ko transparent banana */
+.slick-dots li button:before {
+  font-size: 0; /* Original dot ko hide karo */
+  content: '';  /* Content ko blank karo */
+  
+  /* Yahan hum apna custom pill-shape bana rahe hain */
+  display: block;
+  width: 20px;       /* Pill ki width */
+  height: 8px;       /* Pill ki height */
+  background-color: #e0e0e0; /* Inactive color (light grey) */
+  border-radius: 4px;      /* Rounded corners */
+  transition: background-color 0.3s ease;
+}
+
+/* Active dot ka style */
+.slick-dots li.slick-active button:before {
+  background-color: #333; /* Active color (dark grey/black) */
+}

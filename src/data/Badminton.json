@@ -1,0 +1,293 @@
+[
+ {
+    "id":1,
+    "name":"Knee Cap Air Pro-Pair",
+    "price":435,
+    "oldPrice":512,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img":"https://avatars.mds.yandex.net/i?id=4c35110cf7a64b0b3d46a00fc8de99cead9e4bb3-13202504-images-thumbs&n=13"
+  },
+  {
+    "id":2,
+    "name":"Ankle Support Air Pro″",
+    "price":298,
+    "oldPrice":350,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img":"https://avatars.mds.yandex.net/i?id=f3aab10b08929e681d1ba241e8aefed4f50efd1a-4592954-images-thumbs&n=13"
+  },
+  {
+    "id":3,
+    "name":"Elbow Support Air Pro",
+    "price":383,
+    "oldPrice":451,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img":"https://avatars.mds.yandex.net/i?id=5c5ecb3eedafc1b06bbf21315d3a8c074e359bd1-5859964-images-thumbs&n=13"
+  },  
+  {
+    "id":4,
+    "name":"Shin and calf support Air Pro ",
+    "price":383,
+    "oldPrice":451,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img":"https://avatars.mds.yandex.net/i?id=b6a071e80e0763d6674e9738addd3481f858ee27-4575589-images-thumbs&n=13"
+  },
+    {
+    "id":5,
+    "name":"Finger Sleeves",
+    "price":129,
+    "oldPrice":152,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img":"https://avatars.mds.yandex.net/i?id=e908611f41d0c8248e37da8bd7844fd5fa703d7c-5877100-images-thumbs&n=13"
+  },
+  {
+    "id":6,
+    "name":"Knee Cap Air",
+    "price":326,
+    "oldPrice":383,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+     "img": "https://avatars.mds.yandex.net/i?id=c93b122451dde5b329e65e2e7c3f1096cd7d3d3e-3390871-images-thumbs&n=13"
+  },
+    {
+    "id":7,
+    "name":"Knee Cap Air Pro Open Patella",
+    "price":398,
+    "oldPrice":468,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+     "img": "https://avatars.mds.yandex.net/i?id=fabf29dac5c4ebad73c4c1fddfd0409728c75cd0-9391207-images-thumbs&n=13"
+  },
+    {
+    "id":8,
+    "name":"Tennis/Golfer'S Elbow Support Pro",
+    "price":383,
+    "oldPrice":450,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img": "https://avatars.mds.yandex.net/i?id=215a195567d76643244abc1e7c9317b2297777f5-9068872-images-thumbs&n=13"
+  },
+    {
+    "id":9,
+    "name":"Ankle Binder Air Pro",
+    "price":292,
+    "oldPrice":344,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img": "https://avatars.mds.yandex.net/i?id=118061023a675313fe8cb327821ea59b4d1f7045-4248470-images-thumbs&n=13"
+  },
+    {
+    "id":10,
+    "name":"Shoulder Support Double Lock (Neo)",
+    "price":982,
+    "oldPrice":1155,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img": "https://avatars.mds.yandex.net/i?id=85273d6a0613393227642f2026180bf466b47ac7-5467511-images-thumbs&n=13"
+  },
+    {
+    "id":11,
+    "name":"Wrist Support (Neo)″",
+    "price":435,
+    "oldPrice":512,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img": "https://avatars.mds.yandex.net/i?id=d6c31090e5934a05283157c4700077a362a3cf36-13329543-images-thumbs&n=13"
+  },
+   {
+    "id":12,
+    "name":"Ankle Support (Neoprene)",
+    "price":477,
+    "oldPrice":561,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img":"https://avatars.mds.yandex.net/i?id=6ea686aa5c96de2ab259183f6ca643d269215024-5879173-images-thumbs&n=13"
+  },
+    {
+    "id":13,
+    "name":"Elbow Support Air Pro",
+    "price":383,
+    "oldPrice":451,
+    "category":"tynor",
+    "subCategory":"Badmintion",
+    "img":"https://avatars.mds.yandex.net/i?id=0d6daa8a0f132817172d2fe6d3f6f8fe6298f315-5221896-images-thumbs&n=13"
+  },
+ 
+  {
+    "id": 14,
+    "name": "Knee Cap",
+    "price": 343,
+    "oldPrice": 429,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2013-P1.png?v=1719214603&width=2250"
+  },
+  {
+    "id": 15,
+    "name": "Premium Knee Cap",
+    "price": 375,
+    "oldPrice": 469,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Knee-Cap_1.jpg?v=1751365880&width=2250"
+  },
+  {
+    "id": 16,
+    "name": "Ankle Grip",
+    "price": 359,
+    "oldPrice": 359,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2103-P1_c1d926bc-da18-47e7-8349-1dfb2a99e426.png?v=1720083712&width=2250"
+  },
+  {
+    "id": 17,
+    "name": "Shoulder Support",
+    "price": 759,
+    "oldPrice": 949,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2042-P1.png?v=1718968279&width=2250"
+  },
+  {
+    "id": 18,
+    "name": "Premium Elbow Support",
+    "price": 255,
+    "oldPrice": 319,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Elbow-Support_1.jpg?v=1751365641&width=2250"
+  },
+  {
+    "id": 19,
+    "name": "Elbow Support",
+    "price": 199,
+    "oldPrice": 249,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2021-P1.png?v=1718774462&width=1500"
+  },
+  {
+    "id": 20,
+    "name": "Calf Support",
+    "price": 279,
+    "oldPrice": 349,
+    "category": "flamingo",
+    "subCategory": "Badmintions",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2039-P1.png?v=1718968132&width=2250"
+  },
+  {
+    "id": 21,
+    "name": "Anklet Pair",
+    "price": 311,
+    "oldPrice": 389,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2014-P1.png?v=1718967473&width=1500"
+  },
+  {
+    "id": 22,
+    "name": "Open Patella Knee Cap",
+    "price": 399,
+    "oldPrice": 499,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2047-P1.png?v=1719214999&width=2250"
+  },
+  {
+    "id": 23,
+    "name": "Premium Anklet Pair",
+    "price": 335,
+    "oldPrice": 419,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Ankle-Support_1.jpg?v=1751365771&width=2250"
+  },
+  {
+    "id": 24,
+    "name": "Premium Calf Support (Pair)",
+    "price": 319,
+    "oldPrice": 399,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Calf-Support_1.jpg?v=1751364715&width=2250"
+  },
+  {
+    "id": 25,
+    "name": "Gel Elbow Support",
+    "price": 299,
+    "oldPrice": 299,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2192-P1.jpg?v=1720410922&width=2250"
+  },
+  {
+    "id": 26,
+    "name": "Shoulder Support (Neoprene)",
+    "price": 879.2,
+    "oldPrice": 1099,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2372-P1.png?v=1719324283&width=2250"
+  },
+  {
+    "id": 27,
+    "name": "Ankle Grip (Neoprene)",
+    "price": 799,
+    "oldPrice": 999,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2456-P1.png?v=1719324460&width=2250"
+  },
+  {
+    "id": 28,
+    "name": "Tennis Elbow Support (Neoprene)",
+    "price": 399.2,
+    "oldPrice": 499,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2383-P1.png?v=1718768606&width=1500"
+  },
+  {
+    "id": 29,
+    "name": "Tennis Elbow Support (With pressure pad)",
+    "price": 247.2,
+    "oldPrice": 309,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2024-P1.png?v=1718967746&width=2250"
+  },
+  {
+    "id": 30,
+    "name": "Neoprene Ankle Wrap",
+    "price": 599,
+    "oldPrice": 749,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2371-P1.png?v=1718768245&width=1500"
+  },
+  {
+    "id": 31,
+    "name": "Wrist Wrap (Neoprene)",
+    "price": 239.2,
+    "oldPrice": 299,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2377-P1.png?v=1719324360&width=2250"
+  },
+  {
+    "id": 32,
+    "name": "Wrist Wrap",
+    "price": 209,
+    "oldPrice": 209,
+    "category": "flamingo",
+    "subCategory": "Badmintion",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2030-P1.png?v=1718967991&width=2250"
+  }
+
+
+]

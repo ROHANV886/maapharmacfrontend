@@ -1,0 +1,27 @@
+.carousel-wrapper .carousel-inner {
+  overflow: hidden;
+}
+
+.carousel-wrapper .carousel-item {
+  height: 100%;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: 70vh; /* Desktop height */
+  /* Bootstrap distort na kare */
+}
+
+/* ✅ Tablet view */
+@media (max-width: 992px) {
+  .img-fluid {
+    height: 50vh; /* tablet ke liye thodi kam height */
+  }
+}
+
+/* ✅ Mobile view */
+@media (max-width: 576px) {
+  .img-fluid {
+    height: 35vh; /* mobile ke liye perfect height */
+  }
+}

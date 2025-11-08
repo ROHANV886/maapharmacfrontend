@@ -1,0 +1,97 @@
+.blog-promo-banner {
+  background-image: url("/images/blog-banner.jpg"); /* Replace with your image */
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+  position: relative;
+}
+
+/* Overlay for better text readability */
+.blog-promo-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.blog-promo-banner .container {
+  position: relative;
+  z-index: 2;
+}
+
+/* Fade-in animation */
+.fade-in {
+  animation: fadeIn 0.8s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Custom button style */
+.btn-dark-pink {
+  background-color: #d63384;
+  border-color: #d63384;
+  color: #fff;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn-dark-pink:hover {
+  background-color: #b12167;
+  border-color: #b12167;
+  color: #fff;
+}
+
+.blog-promo-banner {
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.55),
+      rgba(0, 0, 0, 0.55)
+    ),
+    url("/images/blog-banner.jpg") center/cover no-repeat;
+  min-height: 50vh; /* adjusts well on mobile */
+}
+
+.fade-in {
+  animation: fadeInUp 1s ease-in-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive typography */
+@media (max-width: 576px) {
+  .blog-promo-banner h2 {
+    font-size: 1.5rem;
+  }
+  .blog-promo-banner p {
+    font-size: 1rem;
+  }
+}
+
+/* Custom button styling */
+.btn-dark-pink {
+  background-color: #d63384;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.btn-dark-pink:hover {
+  background-color: #b02a6f;
+  transform: translateY(-2px);
+}

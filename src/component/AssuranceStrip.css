@@ -1,0 +1,20 @@
+.assurance-strip {
+  background-color: #f8f9fa; /* Light grey background */
+}
+
+.assurance-strip .col {
+  min-height: 120px; /* Equal height for all columns */
+}
+
+.assurance-strip svg {
+  display: block;
+  margin: 0 auto;
+}
+
+.assurance-strip h6 {
+  font-size: 1rem;
+}
+
+.assurance-strip p {
+  font-size: 0.85rem;
+}

@@ -1,0 +1,259 @@
+[
+
+  {
+    "id": 1,
+    "name": "Knee Cap",
+    "price": 343,
+    "oldPrice": 429,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2013-P1.png"
+  },
+  {
+    "id": 2,
+    "name": "Premium Knee Cap",
+    "price": 469,
+    "oldPrice": 375,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Knee-Cap_1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ankle Grip",
+    "price": 287,
+    "oldPrice": 359,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2103-P1_c1d926bc-da18-47e7-8349-1dfb2a99e426.png"
+  },
+  {
+    "id": 4,
+    "name": "Wrist Brace",
+    "price": 239,
+    "oldPrice": 468,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2027-P1.png"
+  },
+  {
+    "id": 5,
+    "name": "Premium Elbow Support",
+    "price": 255,
+    "oldPrice": 319,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Elbow-Support_1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Calf Support",
+    "price": 279,
+    "oldPrice": 350,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2039-P1.png"
+  },
+  {
+    "id": 7,
+    "name": "Gel Patella Knee Cap",
+    "price": 439,
+    "oldPrice": 555,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2140-P1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Anklet Pair",
+    "price": 311,
+    "oldPrice": 399,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2014-P1.png"
+  },
+  {
+    "id": 9,
+    "name": "Open Patella Knee Cap",
+    "price": 399,
+    "oldPrice": 499,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2047-P1.png"
+  },
+  {
+    "id": 10,
+    "name": "Premium Anklet Pair",
+    "price": 335,
+    "oldPrice": 419,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Ankle-Support_1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Premium Calf Support (Pair)",
+    "price": 319,
+    "oldPrice": 499,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Calf-Support_1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Gel Elbow Support",
+    "price": 239,
+    "oldPrice": 229.00,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2192-P1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Wrist Thumb Brace (Neoprene)",
+    "price": 359,
+    "oldPrice": 449,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2369-P1.png"
+  },
+  {
+    "id": 14,
+    "name": "Ankle Grip (Neoprene)",
+    "price": 799,
+    "oldPrice": 999,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2456-P1.png"
+  },
+  {
+    "id": 15,
+    "name": "Tennis Elbow Support (Neoprene)",
+    "price": 399,
+    "oldPrice": 499.00,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2383-P1.png"
+  },
+  {
+    "id": 16,
+    "name": "Tennis Elbow Support (With pressure pad)",
+    "price": 247.20,
+    "oldPrice": 399.00,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2024-P1.png"
+  },
+  {
+    "id": 17,
+    "name": "Wrist Wrap (Neoprene)",
+    "price": 239.20,
+    "oldPrice": 299.00,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2377-P1.png"
+  },
+  {
+    "id": 18,
+    "name": "Wrist Wrap",
+    "price": 167,
+    "oldPrice": 299,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2030-P1.png"
+  },
+  {
+    "id": 19,
+    "name": "Plus Super Premium Knee Cap",
+    "price": 919.20,
+    "oldPrice": 1149.00,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Flamingo-Plus-Super-Premium-Knee-Cap_1.jpg"
+  }
+,
+
+  {
+    "id": 20,
+    "name": "Knee Cap Air Pro-Pair",
+    "price": 435,
+    "oldPrice": 529,
+    "category": "tynor",
+    "subCategory": "Aerobics",
+    "img": "https://avatars.mds.yandex.net/i?id=4c35110cf7a64b0b3d46a00fc8de99cead9e4bb3-13202504-images-thumbs&n=13"
+  },
+  {
+    "id": 21,
+    "name": "Ankle Support Air Pro",
+    "price": 298,
+    "oldPrice": 350,
+    "category": "tynor",
+    "subCategory": "Aerobics",
+    "img": "https://avatars.mds.yandex.net/i?id=f3aab10b08929e681d1ba241e8aefed4f50efd1a-4592954-images-thumbs&n=13"
+  },
+  {
+    "id": 22,
+    "name": "Elbow Support Air Pro",
+    "price": 383,
+    "oldPrice": 451,
+    "category": "tynor",
+    "subCategory": "Aerobics",
+    "img": "https://avatars.mds.yandex.net/i?id=5c5ecb3eedafc1b06bbf21315d3a8c074e359bd1-5859964-images-thumbs&n=13"
+  },
+  {
+    "id": 23,
+    "name": "Shin and calf support Air Pro",
+    "price": 383,
+    "oldPrice": 451,
+    "category": "tynor",
+    "subCategory": "Aerobics",
+    "img": "https://avatars.mds.yandex.net/i?id=b6a071e80e0763d6674e9738addd3481f858ee27-4575589-images-thumbs&n=13"
+  },
+  {
+    "id": 24,
+    "name": "Knee Cap Air",
+    "price": 326,
+    "oldPrice": 383,
+    "category": "tynor",
+    "subCategory": "Aerobics",
+    "img": "https://avatars.mds.yandex.net/i?id=c93b122451dde5b329e65e2e7c3f1096cd7d3d3e-3390871-images-thumbs&n=13"
+  },
+  {
+    "id": 25,
+    "name": "Knee Cap Air Pro Open Patella",
+    "price": 398,
+    "oldPrice": 468,
+    "category": "tynor",
+    "subCategory": "Aerobics",
+    "img": "https://avatars.mds.yandex.net/i?id=fabf29dac5c4ebad73c4c1fddfd0409728c75cd0-9391207-images-thumbs&n=13"
+  },
+  {
+    "id": 26,
+    "name": "Tennis/Golfer'S Elbow Support Pro",
+    "price": 383,
+    "oldPrice": 450,
+    "category": "tynor",
+    "subCategory": "Aerobics",
+    "img": "https://avatars.mds.yandex.net/i?id=215a195567d76643244abc1e7c9317b2297777f5-9068872-images-thumbs&n=13"
+  },
+  {
+    "id": 27,
+    "name": "Ankle Binder Air Pro",
+    "price": 292,
+    "oldPrice": 349,
+    "category": "tynor",
+    "subCategory": "Aerobics",
+    "img": "https://avatars.mds.yandex.net/i?id=118061023a675313fe8cb327821ea59b4d1f7045-4248470-images-thumbs&n=13"
+  },
+  {
+    "id": 28,
+    "name": "Wrist Wrap With Thumb Loop",
+    "price": 344,
+    "oldPrice": 499,
+    "category": "tynor",
+    "subCategory": "Aerobics",
+    "img": "https://avatars.mds.yandex.net/i?id=7d2dff17363e6f7839e8a026172dc06dce29a14f-3844047-images-thumbs&n=13"
+  }
+
+
+]

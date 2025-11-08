@@ -1,0 +1,120 @@
+[
+ {
+    "id":1,
+    "name":"Knee Cap Air Pro-Pair",
+    "price":435,
+    "oldPrice":512,
+    "category":"tynor",
+    "subCategory":"cricket",
+    "img":"../src/assets/Cricket/C1.jpg"
+  },
+    {
+    "id":2,
+    "name":"Shin and calf support Air Pro ",
+    "price":383,
+    "oldPrice":451,
+    "category":"tynor",
+    "subCategory":"Aerobics",
+    "img":"../src/assets/Aerobic/A4.jpg"
+  },
+     {
+    "id":3,
+    "name":"Finger Sleeves",
+    "price":129,
+    "oldPrice":152,
+    "category":"tynor",
+    "subCategory":"cricket",
+    "img":"../src/assets/Cricket/C5.jpg"
+  },
+   {
+    "id":4,
+    "name":"Knee Cap Air",
+    "price":326,
+    "oldPrice":383,
+    "category":"tynor",
+    "subCategory":"cricket",
+    "img":"../src/assets/Cricket/C6.png"
+  },
+   {
+    "id":5,
+    "name":"Knee Cap Air Pro Open Patella",
+    "price":398,
+    "oldPrice":468,
+    "category":"tynor",
+    "subCategory":"cricket",
+    "img":"../src/assets/Cricket/C7.jpg"
+  },
+     {
+    "id":6,
+    "name":"Shin & Calf Support Neo",
+    "price":808 ,
+    "oldPrice":988,
+    "category":"tynor",
+    "subCategory":"cricket",
+    "img":"../src/assets/Cricket/cyc.jpg"
+  },
+    {
+    "id":7,
+    "name":"Knee Cap",
+    "price":343,
+    "oldPrice":429,
+    "category":"flamingo",
+    "subCategory":"basketball",
+    "img":"../src/assets/Basketball/fb1.png"
+  },
+   {
+    "id":8,
+    "name":"Premium Knee Cap",
+    "price":375,
+    "oldPrice":469,
+    "category":"flamingo",
+    "subCategory":"basketball",
+    "img":"../src/assets/Basketball/fb2.jpg"
+  },
+   {
+    "id":9,
+    "name":"Knee Wrap (Neoprene)",
+    "price":919.20,
+    "oldPrice":1149.00,
+    "category":"flamingo",
+    "subCategory":"basketball",
+    "img":"../src/assets/Basketball/fb7.png"
+  },
+   {
+    "id": 10,
+    "name": "Calf Support",
+    "price": 279,
+    "oldPrice": 350,
+    "category": "flamingo",
+    "subCategory": "Aerobics",
+    "img": "../src/assets/Aerobic/AR6.png"
+  },
+    {
+    "id":11,
+    "name":"Open Patella Knee Cap",
+    "price":399,
+    "oldPrice":499,
+    "category":"flamingo",
+    "subCategory":"Aerobics",
+    "img":"../src/assets/Aerobic/AR9.png"
+  },
+    {
+    "id":12,
+    "name":"Premium Calf Support (Pair)",
+    "price":319,
+    "oldPrice":499,
+    "category":"flamingo",
+    "subCategory":"Aerobics",
+    "img":"../src/assets/Aerobic/AR11.jpg"
+  },
+    {
+    "id":13,
+    "name":"Plus Super Premium Knee Cap",
+    "price":919.20,
+    "oldPrice":1149.00,
+    "category":"flamingo",
+    "subCategory":"Aerobics",
+    "img":"../src/assets/Aerobic/AR18.png"
+  }
+
+]

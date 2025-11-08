@@ -1,0 +1,71 @@
+.daily-support-section {
+  background-color: #f8f9fa; /* Light grey */
+  padding: 3rem 0;
+}
+
+.fade-in {
+  animation: fadeIn 0.8s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.support-card {
+  height: 220px;
+  transition: transform 0.3s ease;
+}
+
+.support-card:hover {
+  transform: scale(1.05);
+}
+
+.support-img {
+  object-fit: cover;
+  height: 100%;
+}
+
+.daily-support-section {
+  background-color: #f9fafb; /* subtle background */
+}
+
+.support-card {
+  position: relative;
+  height: 200px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.support-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.support-img {
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.support-card:hover .support-img {
+  transform: scale(1.08);
+}
+
+/* Overlay button */
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.support-card:hover .overlay {
+  opacity: 1;
+}

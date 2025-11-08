@@ -1,0 +1,159 @@
+/* Fade-in animation */
+.fade-in {
+  animation: fadeIn 0.8s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Horizontal scroll container */
+.activity-scroll-container {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  padding-bottom: 1rem;
+  scroll-snap-type: x mandatory;
+}
+
+.activity-scroll-container::-webkit-scrollbar {
+  height: 6px;
+}
+
+.activity-scroll-container::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 3px;
+}
+
+/* Card styling */
+.activity-card {
+  flex: 0 0 auto;
+  width: 160px;
+  scroll-snap-align: start;
+}
+
+.activity-box {
+  height: 180px;
+  transition: transform 0.3s ease;
+}
+
+.activity-box:hover {
+  transform: scale(1.05);
+}
+
+.activity-img {
+  object-fit: cover;
+  height: 100%;
+}
+
+/* Button styling */
+.activity-btn {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.activity-btn:hover {
+  background-color: #ff69b4; /* Pink */
+  color: white;
+}
+
+.activity-btn:active {
+  background-color: #d63384;
+  color: white;
+}
+
+.activity-scroll-container {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  scrollbar-width: thin;
+}
+
+.activity-scroll-container::-webkit-scrollbar {
+  height: 6px;
+}
+.activity-scroll-container::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+.activity-card {
+  flex: 0 0 auto;
+  width: 180px;
+  transition: transform 0.3s ease;
+}
+
+.activity-card:hover {
+  transform: translateY(-6px);
+}
+
+.activity-box {
+  height: 200px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.activity-img {
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.activity-card:hover .activity-img {
+  transform: scale(1.08);
+}
+
+.activity-btn {
+  font-size: 0.85rem;
+  font-weight: 500;
+  border-radius: 20px;
+}
+.activity-scroll-container {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding-bottom: 10px;
+}
+
+.activity-scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-btn {
+  position: absolute;
+  top: 55%;
+  transform: translateY(-50%);
+  background: white;
+  border: none;
+  font-size: 28px;
+  font-weight: bold;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.2);
+  cursor: pointer;
+  z-index: 100;
+}
+
+.left-btn {
+  left: -10px;
+}
+
+.right-btn {
+  right: -10px;
+}
+
+.scroll-btn:hover {
+  background: #f1f1f1;
+  transform: translateY(-50%) scale(1.1);
+}
+
+
+

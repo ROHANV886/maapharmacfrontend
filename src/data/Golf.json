@@ -1,0 +1,329 @@
+[
+
+  {
+    "id": 1,
+    "name": "Knee Cap Air Pro-Pair",
+    "oldPrice": "₹512.00",
+    "price": "₹435.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/1/0/102-1_1__4.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ankle Support Air Pro",
+    "oldPrice": "₹350.00",
+    "price": "₹298.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/1/_/1_619.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Elbow Support Air Pro",
+    "oldPrice": "₹451.00",
+    "price": "₹383.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/3/0/303g11_4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Shin and calf support Air Pro",
+    "oldPrice": "₹451.00",
+    "price": "₹383.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/7/0/70211_4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Knee Cap Air",
+    "oldPrice": "₹383.00",
+    "price": "₹326.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/1/0/103111.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Knee Cap Air Pro Open Patella",
+    "oldPrice": "₹468.00",
+    "price": "₹398.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/1/0/10111_4.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tennis/Golfer'S Elbow Support Pro",
+    "oldPrice": "₹450.00",
+    "price": "₹383.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/3/0/302ooo_1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ankle Binder Air Pro",
+    "oldPrice": "₹344.00",
+    "price": "₹292.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/2/0/202o_4.png"
+  },
+  {
+    "id": 9,
+    "name": "Shoulder Support Double Lock (Neo)",
+    "oldPrice": "₹1,155.00",
+    "price": "₹982.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/4/0/40411-1_1_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Wrist Support (Neo)",
+    "oldPrice": "₹512.00",
+    "price": "₹435.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/4/0/4081_1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Ankle Support (Neoprene)",
+    "oldPrice": "₹561.00",
+    "price": "₹477.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/4/0/403111_1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Wrist Wrap With Thumb Loop",
+    "oldPrice": "₹393.00",
+    "price": "₹334.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/3/0/30_1_1_.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Knee Wrap (Neo)",
+    "oldPrice": "₹935.00",
+    "price": "₹795.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/4/0/4011_1.png"
+  },
+  {
+    "id": 14,
+    "name": "Wrist Support With Thumb Loop (Neo)",
+    "oldPrice": "₹511.00",
+    "price": "₹434.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/4/0/4071_1.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Elbow Support Air",
+    "oldPrice": "₹354.00",
+    "price": "₹301.00",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/3/0/3041_1.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Knee Cap (Neo)",
+    "oldPrice": null,
+    "price": "Out of stock",
+    "category": "Tynor",
+    "subCategory": "Golf",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/k/n/knee_cap_neo_orange_1_2.jpg"
+  }
+,
+  {
+    "id": 17,
+    "name": "Knee Cap",
+    "price": 343.20,
+    "oldPrice": 429.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2013-P2.png?v=1719214603&width=300"
+  },
+  {
+    "id": 18,
+    "name": "Premium Knee Cap",
+    "price": 375.20,
+    "oldPrice": 469.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Knee-Cap_1.jpg?v=1751365880&width=300"
+  },
+  {
+    "id": 19,
+    "name": "Wrist Brace",
+    "price": 239.00,
+    "oldPrice": null,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2027-P2.png?v=1718967895&width=300"
+  },
+  {
+    "id": 20,
+    "name": "Shoulder Support",
+    "price": 759.20,
+    "oldPrice": 949.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2042-P2.png?v=1718968279&width=300"
+  },
+  {
+    "id": 21,
+    "name": "Premium Elbow Support",
+    "price": 255.20,
+    "oldPrice": 319.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Elbow-Support_1.jpg?v=1751365641&width=300"
+  },
+  {
+    "id": 22,
+    "name": "Elbow Support",
+    "price": 199.20,
+    "oldPrice": 249.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2021-P2.png?v=1718774462&width=300"
+  },
+  {
+    "id": 23,
+    "name": "Knee Wrap (Neoprene)",
+    "price": 919.20,
+    "oldPrice": 1149.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2039-P2.png?v=1718968133&width=300"
+  },
+  {
+    "id": 24,
+    "name": "Calf Support",
+    "price": 279.20,
+    "oldPrice": 349.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2005-P2.png?v=1718950891&width=300"
+  },
+  {
+    "id": 25,
+    "name": "Ankle Binder",
+    "price": 255.20,
+    "oldPrice": 319.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2047-P2.png?v=1719214998&width=300"
+  },
+  {
+    "id": 26,
+    "name": "Open Patella Knee Cap",
+    "price": 399.20,
+    "oldPrice": 499.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Calf-Support_1.jpg?v=1751364715&width=300"
+  },
+  {
+    "id": 27,
+    "name": "Premium Calf Support (Pair)",
+    "price": 319.20,
+    "oldPrice": 399.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2192-P2.jpg?v=1720410922&width=300"
+  },
+  {
+    "id": 28,
+    "name": "Gel Elbow Support",
+    "price": 239.20,
+    "oldPrice": 299.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2369-P2.png?v=1719324196&width=300"
+  },
+  {
+    "id": 29,
+    "name": "Wrist Thumb Brace (Neoprene)",
+    "price": 359.20,
+    "oldPrice": 449.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2369-P2.png?v=1719324196&width=300"
+  },
+  {
+    "id": 30,
+    "name": "Shoulder Support (Neoprene)",
+    "price": 879.20,
+    "oldPrice": 1099.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2372-P2.png?v=1719324283&width=300"
+  },
+  {
+    "id": 31,
+    "name": "Tennis Elbow Support (Neoprene)",
+    "price": 399.20,
+    "oldPrice": 499.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2383-P2.png?v=1718768606&width=300"
+  },
+  {
+    "id": 32,
+    "name": "Tennis Elbow Support (With pressure pad)",
+    "price": 247.20,
+    "oldPrice": 309.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2024-P2.png?v=1718967746&width=300"
+  },
+  {
+    "id": 33,
+    "name": "Neoprene Ankle Wrap",
+    "price": 599.20,
+    "oldPrice": 749.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2371-P2.png?v=1718768245&width=300"
+  },
+  {
+    "id": 34,
+    "name": "Wrist Wrap (Neoprene)",
+    "price": 239.20,
+    "oldPrice": 299.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2377-P2.png?v=1719324360&width=300"
+  },
+  {
+    "id": 35,
+    "name": "Wrist Wrap",
+    "price": 167.20,
+    "oldPrice": 209.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2030-P2.png?v=1718967991&width=300"
+  },
+  {
+    "id": 36,
+    "name": "Plus Super Premium Knee Cap",
+    "price": 959.20,
+    "oldPrice": 1199.00,
+    "category": "Flamingo",
+    "subCategory": "Golf",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Flamingo-Plus-Super-Premium-Knee-Cap_2.jpg?v=1758108781&width=300"
+  }
+
+]

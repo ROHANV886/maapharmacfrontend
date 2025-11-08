@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Dr Morepen BP-02 Blood Pressure Monitor, 1 unit",
+    "oldPrice": null,
+    "price": "₹1,382.00",
+    "category": "Medical Devices",
+    "subCategory": "BP Monitor",
+    "img": "https://avatars.mds.yandex.net/i?id=a593b421ebc302abc8abcaca4651d728ea9e49c8cf8f9c60-5141542-images-thumbs&n=13"
+  },
+  {
+    "id": 2,
+    "name": "Accu-Chek Instant Blood Glucose Monitor",
+    "oldPrice": null,
+    "price": "₹1,237",
+    "category": "Medical Devices",
+    "subCategory": "Glucometer",
+    "img": "https://avatars.mds.yandex.net/i?id=a593b421ebc302abc8abcaca4651d728ea9e49c8cf8f9c60-5141542-images-thumbs&n=13"
+  },
+  {
+    "id": 3,
+    "name": "Accu-Chek Instant S Blood Glucose Monitor",
+    "oldPrice": null,
+    "price": "₹728",
+    "category": "Medical Devices",
+    "subCategory": "Glucometer",
+    "img": "https://avatars.mds.yandex.net/i?id=5fdc864e576851efaabf6cbc1238cbc25a8bbdf3-5360371-images-thumbs&n=13"
+  },
+  {
+    "id": 4,
+    "name": "Accu-Chek Active Glucose Monitor",
+    "oldPrice": null,
+    "price": "₹997",
+    "category": "Medical Devices",
+    "subCategory": "Glucometer",
+    "img": "https://avatars.mds.yandex.net/i?id=f5ca9984cd75cc892954a2679f6dadc926ded434-9233306-images-thumbs&n=13"
+  },
+  {
+    "id": 5,
+    "name": "Perfecxa Respiratory Nebulizer with Complete Kit",
+    "oldPrice": null,
+    "price": "₹1,297.00",
+    "category": "Medical Devices",
+    "subCategory": "Nebulizer",
+    "img": "https://avatars.mds.yandex.net/i?id=97ad2a08b04f4bd43a89ba84bf7d909d61f9977c-10355051-images-thumbs&n=13"
+  },
+  {
+    "id": 6,
+    "name": "Beurer FT 09/1 W/B Thermometer",
+    "oldPrice": null,
+    "price": "Out of stock",
+    "category": "Medical Devices",
+    "subCategory": "Thermometer",
+    "img": "https://avatars.mds.yandex.net/i?id=2feec3052a29da033a4862ca9889cd7348473f1f-5233531-images-thumbs&n=13"
+  },
+  {
+    "id": 7,
+    "name": "Beurer Digital Thermometer (FT 09)",
+    "oldPrice": null,
+    "price": "₹154",
+    "category": "Medical Devices",
+    "subCategory": "Thermometer",
+    "img": "https://avatars.mds.yandex.net/i?id=f10a7612b9ccb89e8a9f2a649cfa97c0add9febda063cae9-5227398-images-thumbs&n=13"
+  },
+  {
+    "id": 8,
+    "name": "Beurer FT 09 Clinical Thermometer",
+    "oldPrice": null,
+    "price": "In stock",
+    "category": "Medical Devices",
+    "subCategory": "Thermometer",
+    "img": "https://avatars.mds.yandex.net/i?id=e4687152b90639743c9619e606ce133df6095b5a-5287653-images-thumbs&n=13"
+  },
+  {
+    "id": 9,
+    "name": "Friends Classic Adult Diapers",
+    "oldPrice": null,
+    "price": "₹301",
+    "category": "Personal Care",
+    "subCategory": "Adult Diapers",
+    "img": "https://avatars.mds.yandex.net/i?id=7d327cf8e431abec188b8e504d02eee355a3e60b-9181873-images-thumbs&n=13"
+  },
+  {
+    "id": 10,
+    "name": "Friends Easy Adult Diapers",
+    "oldPrice": null,
+    "price": "₹389",
+    "category": "Personal Care",
+    "subCategory": "Adult Diapers",
+    "img": "https://avatars.mds.yandex.net/i?id=f27406eaf7dc9058bb523f5783db8038b8136a93-5112030-images-thumbs&n=13"
+  },
+  {
+    "id": 11,
+    "name": "Friends Adult Diaper (Bed Pad)",
+    "oldPrice": null,
+    "price": "₹469",
+    "category": "Personal Care",
+    "subCategory": "Adult Diapers",
+    "img": ""
+  }
+]

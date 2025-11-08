@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "name": "Knee Cap Air Pro-Pair",
+    "oldPrice": "₹512.00",
+    "price": "₹435.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/k/n/knee-cap-air-pro-d-72-A.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ankle Support Air Pro",
+    "oldPrice": "₹350.00",
+    "price": "₹298.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/a/n/ankle-support-air-pro-d-02-A.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Elbow Support Air Pro",
+    "oldPrice": "₹451.00",
+    "price": "₹383.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/e/l/elbow-support-air-pro-e-04-A.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Knee Support Sportif Pro",
+    "oldPrice": "₹950.00",
+    "price": "₹808.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/k/n/knee-support-sportif-pro-d-12-A.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shin and calf support Air Pro",
+    "oldPrice": "₹451.00",
+    "price": "₹383.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/s/h/shin-and-calf-support-air-pro-d-15-A.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Finger Sleeves",
+    "oldPrice": "₹152.00",
+    "price": "₹129.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/f/i/finger-sleeves-j-06-A.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Knee Cap Air",
+    "oldPrice": "₹383.00",
+    "price": "₹326.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/k/n/knee-cap-air-d-71-A.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tynogrip Gym Gloves With Support",
+    "oldPrice": "₹728.00",
+    "price": "₹619.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/t/y/tynogrip-gym-gloves-with-support-i-75-A.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tynogrip Women's Gym Gloves",
+    "oldPrice": "₹605.00",
+    "price": "₹514.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/t/y/tynogrip-women_s-gym-gloves-i-76-A.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Knee Cap Air Pro Open Patella",
+    "oldPrice": "₹468.00",
+    "price": "₹398.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/k/n/knee-cap-air-pro-open-patella-d-73-A.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Tennis/Golfer'S Elbow Support Pro",
+    "oldPrice": "₹450.00",
+    "price": "₹383.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/t/e/tennis-golfer-s-elbow-support-pro-e-11-A.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ankle Binder Air Pro",
+    "oldPrice": "₹344.00",
+    "price": "₹292.00",
+    "category": "Tynor",
+    "subCategory": "Gym",
+    "img": "https://www.tynorstore.com/media/catalog/product/cache/d5c5668800aefe39dcdd3e4ee93a1b01/a/n/ankle-binder-air-pro-d-01-A.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Knee Cap",
+    "oldPrice": 429,
+    "price": 343.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2013-P2.png?v=1719214603&width=300"
+  },
+  {
+    "id": 14,
+    "name": "Premium Knee Cap",
+    "oldPrice": 469,
+    "price": 375.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Knee-Cap_1.jpg?v=1751365880&width=300"
+  },
+  {
+    "id": 15,
+    "name": "Abdominal Belt - 20 cm",
+    "oldPrice": 829,
+    "price": 663.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2002-P2.png?v=1718950197&width=300"
+  },
+  {
+    "id": 16,
+    "name": "Ankle Grip",
+    "oldPrice": 359,
+    "price": 287.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2103-P2_ec58b838-8d48-4e8b-8256-2789bc516e0a.png?v=1720083712&width=600"
+  },
+  {
+    "id": 17,
+    "name": "Premium Exercise Band",
+    "oldPrice": 499,
+    "price": 399.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/PREMIUIMEXERCISEBAND-P2.png?v=1719044257&width=300"
+  },
+  {
+    "id": 18,
+    "name": "Wrist Brace",
+    "oldPrice": 239,
+    "price": 239,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2027-P2.png?v=1718967895&width=300"
+  },
+  {
+    "id": 19,
+    "name": "Shoulder Support",
+    "oldPrice": 949,
+    "price": 759.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2042-P2.png?v=1718968279&width=300"
+  },
+  {
+    "id": 20,
+    "name": "Neoprene Knee Wrap",
+    "oldPrice": 1149,
+    "price": 919.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2370-P2.png?v=1719324237&width=300"
+  },
+  {
+    "id": 21,
+    "name": "Calf Support",
+    "oldPrice": 349,
+    "price": 279.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2039-P2.png?v=1718968133&width=300"
+  },
+  {
+    "id": 22,
+    "name": "Anklet Pair",
+    "oldPrice": 389,
+    "price": 311.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2014-P2.png?v=1718967473&width=300"
+  },
+  {
+    "id": 23,
+    "name": "Premium Anklet Pair",
+    "oldPrice": 419,
+    "price": 335.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Ankle-Support_1.jpg?v=1751365771&width=300"
+  },
+  {
+    "id": 24,
+    "name": "Flamistretch",
+    "oldPrice": 399,
+    "price": 319.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/FLAMISTRETCH-P1_cf1e787d-87a7-4c14-91ec-6612c92f6b7f.png?v=1719810515&width=300"
+  },
+  {
+    "id": 25,
+    "name": "Premium Calf Support (Pair)",
+    "oldPrice": 399,
+    "price": 319.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/Premium-Calf-Support_1.jpg?v=1751364715&width=300"
+  },
+  {
+    "id": 26,
+    "name": "Gel Elbow Support",
+    "oldPrice": 299,
+    "price": 239.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2192-P2.jpg?v=1720410922&width=300"
+  },
+  {
+    "id": 27,
+    "name": "Abs Wrap (Neoprene)",
+    "oldPrice": 1249,
+    "price": 999.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2366-P2.png?v=1719324159&width=300"
+  },
+  {
+    "id": 28,
+    "name": "Wrist Thumb Brace (Neoprene)",
+    "oldPrice": 449,
+    "price": 359.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2369-P2.png?v=1719324196&width=300"
+  },
+  {
+    "id": 29,
+    "name": "Shoulder Support (Neoprene)",
+    "oldPrice": 1099,
+    "price": 879.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2372-P2.png?v=1719324283&width=300"
+  },
+  {
+    "id": 30,
+    "name": "Neoprene Ankle Grip",
+    "oldPrice": 999,
+    "price": 799.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2456-P2.png?v=1719324460&width=300"
+  },
+  {
+    "id": 31,
+    "name": "Tennis Elbow Support (Neoprene)",
+    "oldPrice": 499,
+    "price": 399.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2383-P2.png?v=1718768606&width=300"
+  },
+  {
+    "id": 32,
+    "name": "Tennis Elbow Support (With pressure pad)",
+    "oldPrice": 309,
+    "price": 247.2,
+    "category": "Flamingo",
+    "subCategory": "Gym",
+    "img": "https://www.flamingohealth.com/cdn/shop/files/OC2024-P2.png?v=1718967746&width=300"
+  }
+]
