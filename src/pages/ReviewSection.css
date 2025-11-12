@@ -1,0 +1,80 @@
+.review-container {
+  position: fixed;
+  top: 20%; /* thoda neeche start ho */
+  right: 0;
+  width: 25%;      /* screen ka 25% width */
+  height: 70vh;    /* sirf 30% screen height */
+  overflow-y: auto;
+  background-color: #ffffff;
+  border-left: 1px solid #ddd;
+  border-radius: 6px 0 0 6px;
+  padding: 1rem;
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.08);
+  z-index: 1000;
+}
+
+/* Scrollbar soft look */
+.review-container::-webkit-scrollbar {
+  width: 6px;
+}
+.review-container::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+
+/* Inside layout tweaks */
+.review-form {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+.review-form h3,
+.review-list h3 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+/* Stars compact */
+.rating-stars svg {
+  width: 18px;
+  height: 18px;
+  fill: #f5a623;
+}
+
+.form-group {
+  margin-bottom: 0.75rem;
+}
+
+.form-group label {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.form-control {
+  width: 100%;
+  padding: 6px 8px;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.review-item.card {
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0;
+}
+
+.card-body {
+  padding: 0.75rem;
+}
+@media (max-width: 768px) {
+  .review-container {
+    position: static;
+    width: 100%;
+    height: auto;
+    box-shadow: none;
+    border-left: none;
+  }
+}

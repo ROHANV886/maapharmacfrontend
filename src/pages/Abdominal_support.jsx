@@ -153,67 +153,7 @@ const Abdominal_support = () => {
 
           {/* ✅ FIX 2: Product Grid (Small screen par poori width, medium par 9 columns) */}
           <div className="col-12 col-md-9">
-            <div className="row">
-              {filteredProducts.length > 0 ? (
-                filteredProducts.map((item, index) => (
-                  <div 
-                    // ✅ FIX 3: Product card width (Mobile par 6 columns, yani 2-per-row)
-                    className="col-6 col-sm-6 col-md-4 mb-4" 
-                    key={index}
-                  >
-                    <div className="card product-card shadow-sm h-100">
-                      <img
-                        src={
-                          item.img ||
-                          "https://via.placeholder.com/200x200?text=No+Image"
-                        }
-                        className="card-img-top"
-                        alt={item.name}
-                        style={{ height: "200px", objectFit: "cover" }}
-                      />
-                      <div className="card-body text-center d-flex flex-column justify-content-between">
-                        <div>
-                          <h6 className="card-title mb-2">{item.name}</h6>
-                          <p className="price mb-2">
-                            ₹
-                            {String(item.price || "0")
-                              .replace(/[₹,]/g, "")
-                              .trim()}{" "}
-                            {item.oldPrice && (
-                              <span className="old-price text-muted text-decoration-line-through ms-1">
-                                ₹
-                                {String(item.oldPrice)
-                                  .replace(/[₹,]/g, "")
-                                  .trim()}
-                              </span>
-                            )}
-                          </p>
-                        </div>
-
-                        <div className="d-flex justify-content-center gap-2">
-                          <Link
-                            to={`/product/${encodeURIComponent(
-                              makeSlug(item.name)
-                            )}`}
-                            className="btn btn-outline-dark btn-sm"
-                          >
-                            View Details
-                          </Link>
-                          <button
-                            className="btn btn-dark btn-sm"
-                            onClick={() => handleAddToCart(item)}
-                          >
-                            Add to Cart
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                ))
-              ) : (
-                <p className="text-center mt-4">No products found.</p>
-              )}
-            </div>
+                <ProductGrid products={filteredProducts} />
           </div>
         </div>
       </div>
